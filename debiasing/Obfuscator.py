@@ -197,7 +197,7 @@ class Obfuscator:
 
         return text
 
-    # determines word to be chosen via greedy selection (checking probability changes) and perform random replacement replaces (random replacement)
+    # determines word to be chosen via greedy selection (checking probability changes) and perform random replacement
     def GS_RR(self, text_id, query, original_label):
         
         query = self.preProcessText(query)
