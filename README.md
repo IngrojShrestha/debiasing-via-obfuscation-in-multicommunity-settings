@@ -1,6 +1,4 @@
-# Debiasing by obfuscating with 007-classifiers promotes fairness in multi-community settings
-
-(To appear in COLING 2025)
+Ingroj Shrestha and Padmini Srinivasan. 2025. [Debiasing by obfuscating with 007-classifiers promotes fairness in multi-community settings](https://aclanthology.org/2025.coling-main.42/). In Proceedings of the 31st International Conference on Computational Linguistics, pages 621–636, Abu Dhabi, UAE. Association for Computational Linguistics.
 
 ## Datasets
 HatEval19: Request the dataset here http://hatespeech.di.unito.it/hateval.html
